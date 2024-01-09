@@ -1,7 +1,7 @@
 # Project UAS
 
 link Youtube:
-
+https://youtu.be/qSMfEsiJyFk?si=HHySqIDWj4oPtMWU
 
 - Buatlah program kasir di sebuah kantin, dengan kondisi berikut:
 - List opsi pilihan makanan/minuman dan aksi, bisa menggunakan
