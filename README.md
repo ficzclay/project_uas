@@ -24,7 +24,7 @@ Program ini adalah sebuah program kasir sederhana. Program ini digunakan untuk m
 
 
 Berikut Hasilnya:
-![alt text](https://github.com/ficzclay/project_uas/blob/master/img/1.png?raw=true)
+![alt text](https://github.com/ficzclay/project_uas/blob/main/img/1.png?raw=true)
 
 
 ## Langkah-langkah pengerjaan latihan
